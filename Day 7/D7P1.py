@@ -7,7 +7,6 @@ import sys
 from lxml import etree
 
 #Declare variables
-totalContains = 0
 root = etree.Element("root")
 parentFolder = root
 sizeLimit = 100000
